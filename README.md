@@ -12,6 +12,9 @@ Each day covers a specific topic, with notes, code, and resources.
 | 1   | What is Machine Learning? | [Day 1](https://github.com/AqibNiazi/100-days-of-ml/tree/main/day-1-what-is-ml) |
 | 2   | AI vs Machine Learning vs Deep Learning | [Day 2](https://github.com/AqibNiazi/100-days-of-ml/tree/main/day-2-ai-vs-ml-vs-dl) |
 | 3   | Types of Machine Learning | [Day 3](https://github.com/AqibNiazi/100-days-of-ml/tree/main/day-3-types-of-ml) |
+| 13   | End to End Placement Project | [Day 13](https://github.com/AqibNiazi/100-days-of-ml/tree/main/day-13-placement-project-logistic-regression) |
+| 15   | Working with CSV files | [Day 15](https://github.com/AqibNiazi/100-days-of-ml/tree/main/day-15-working-with-CSV-files) |
+| 16   | Working with JSON & SQL | [Day 16](https://github.com/AqibNiazi/100-days-of-ml/tree/main/day-16-working-with-json-Sql) |
 | ... | ... | ... |
 
 ---
