@@ -15,6 +15,9 @@ Each day covers a specific topic, with notes, code, and resources.
 | 13   | End to End Placement Project | [Day 13](https://github.com/AqibNiazi/100-days-of-ml/tree/main/day-13-placement-project-logistic-regression) |
 | 15   | Working with CSV files | [Day 15](https://github.com/AqibNiazi/100-days-of-ml/tree/main/day-15-working-with-CSV-files) |
 | 16   | Working with JSON & SQL | [Day 16](https://github.com/AqibNiazi/100-days-of-ml/tree/main/day-16-working-with-json-Sql) |
+| 23   | Feature Extraction | [Day 23](https://github.com/AqibNiazi/100-days-of-ml/tree/main/day-23-feature-extraction) |
+| 24   | Feature Scaling - Standardization | [Day 24](https://github.com/AqibNiazi/100-days-of-ml/tree/main/day-24-standardization) |
+| 25   | Feature Scaling - Normalization | [Day 25](https://github.com/AqibNiazi/100-days-of-ml/tree/main/day-25-normalization) |
 | ... | ... | ... |
 
 ---
