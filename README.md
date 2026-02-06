@@ -23,6 +23,7 @@ Each day covers a specific topic, with notes, code, and resources.
 | 19   | Understanding your data | [Day 19](https://github.com/AqibNiazi/100-days-of-ml/tree/main/day-19-understanding-your-data) |
 | 20   | Univariate Analysis | [Day 20](https://github.com/AqibNiazi/100-days-of-ml/tree/main/day-20-univariate-analysis) |
 | 21   | Multivariate Analysis | [Day 21](https://github.com/AqibNiazi/100-days-of-ml/tree/main/day-21-multivariate-analysis) |
+| 22   | Pandas Profilling | [Day 22](https://github.com/AqibNiazi/100-days-of-ml/tree/main/day-22-pandas-profilling) |
 | 23   | Feature Extraction | [Day 23](https://github.com/AqibNiazi/100-days-of-ml/tree/main/day-23-feature-extraction) |
 | 24   | Feature Scaling - Standardization | [Day 24](https://github.com/AqibNiazi/100-days-of-ml/tree/main/day-24-standardization) |
 | 25   | Feature Scaling - Normalization | [Day 25](https://github.com/AqibNiazi/100-days-of-ml/tree/main/day-25-normalization) |
