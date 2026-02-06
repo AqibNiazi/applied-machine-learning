@@ -26,6 +26,7 @@ Each day covers a specific topic, with notes, code, and resources.
 | 23   | Feature Extraction | [Day 23](https://github.com/AqibNiazi/100-days-of-ml/tree/main/day-23-feature-extraction) |
 | 24   | Feature Scaling - Standardization | [Day 24](https://github.com/AqibNiazi/100-days-of-ml/tree/main/day-24-standardization) |
 | 25   | Feature Scaling - Normalization | [Day 25](https://github.com/AqibNiazi/100-days-of-ml/tree/main/day-25-normalization) |
+| 26   | Ordinal Encoding | [Day 26](https://github.com/AqibNiazi/100-days-of-ml/tree/main/day-26-ordinal-encoding) |
 | ... | ... | ... |
 
 ---
