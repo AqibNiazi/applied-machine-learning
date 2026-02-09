@@ -16,6 +16,7 @@ Each day covers a specific topic, with notes, code, and resources.
 | 5   | Online Learning | [Day 5](https://github.com/AqibNiazi/100-days-of-ml/tree/main/day-5-online-learning) |
 | 6   | Instance Based vs Model Based Learning | [Day 6](https://github.com/AqibNiazi/100-days-of-ml/tree/main/day-6-instance-vs-model-based) |
 | 7   | Challenges in Machine Learning | [Day 7](https://github.com/AqibNiazi/100-days-of-ml/tree/main/day-7-challenges-in-ml) |
+| 8   | Machine Learning Applications | [Day 8](https://github.com/AqibNiazi/100-days-of-ml/tree/main/day-8-ml-applications) |
 | 13   | End to End Placement Project | [Day 13](https://github.com/AqibNiazi/100-days-of-ml/tree/main/day-13-placement-project-logistic-regression) |
 | 15   | Working with CSV files | [Day 15](https://github.com/AqibNiazi/100-days-of-ml/tree/main/day-15-working-with-CSV-files) |
 | 16   | Working with JSON & SQL | [Day 16](https://github.com/AqibNiazi/100-days-of-ml/tree/main/day-16-working-with-json-Sql) |
