@@ -31,7 +31,8 @@ Each day covers a specific topic, with notes, code, and resources.
 | 25   | Feature Scaling - Normalization | [Day 25](https://github.com/AqibNiazi/100-days-of-ml/tree/main/day-25-normalization) |
 | 26   | Ordinal Encoding | [Day 26](https://github.com/AqibNiazi/100-days-of-ml/tree/main/day-26-ordinal-encoding) |
 | 27   | One Hot Encoding | [Day 27](https://github.com/AqibNiazi/100-days-of-ml/tree/main/day-27-one-hot-encoding) |
-| 28   | Column Transformer | [Day 27](https://github.com/AqibNiazi/100-days-of-ml/tree/main/day-28-column-transformer) |
+| 28   | Column Transformer | [Day 28](https://github.com/AqibNiazi/100-days-of-ml/tree/main/day-28-column-transformer) |
+| 29   | Column Transformer | [Day 29](https://github.com/AqibNiazi/100-days-of-ml/tree/main/day-29-ml-pipelines) |
 | ... | ... | ... |
 
 ---
