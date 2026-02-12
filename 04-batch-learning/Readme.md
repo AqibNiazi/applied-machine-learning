@@ -1,4 +1,4 @@
-# 📦 Batch Machine Learning (Offline Learning)
+# Lecture 4: Batch Machine Learning (Offline Learning)
 
 A concise and well-structured overview of **Batch Machine Learning**, covering its core concepts, challenges, and disadvantages. These notes are ideal for **students, interview preparation, and quick revision**, and are adapted from my Notion study sheet.
 

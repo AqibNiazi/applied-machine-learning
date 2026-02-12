@@ -1,4 +1,4 @@
-# 🔄 Online Learning (Incremental Learning)
+# Lecture 5: Online Learning (Incremental Learning)
 
 This repository contains concise and structured notes on **Online Learning**, a machine learning paradigm designed for **streaming, large-scale, and continuously evolving data**. These notes are adapted from my Notion study material and are suitable for **students, interviews, and quick revision**.
 
