@@ -109,11 +109,3 @@ Batch Machine Learning works best when:
 
 Batch Machine Learning is simple and stable but lacks flexibility. It is best suited for **static environments** where data evolves slowly and immediate learning is not required.
 
----
-
-## 📚 Notes
-
-- These notes are maintained in **Notion** for structured learning
-- This README is part of my **Machine Learning fundamentals** series
-
-⭐ _If you find this helpful, consider starring the repository!_
