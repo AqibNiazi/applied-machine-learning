@@ -43,6 +43,8 @@ The goal is to build strong ML foundations and apply them to real datasets using
 | 27  | One Hot Encoding                 | Encoding nominal categorical features                           | [27-one-hot-encoding](https://github.com/AqibNiazi/applied-machine-learning/tree/main/27-one-hot-encoding)                                           |
 | 28  | Column Transformer               | Applying different transformations to different columns         | [28-column-transformer](https://github.com/AqibNiazi/applied-machine-learning/tree/main/28-column-transformer)                                       |
 | 29  | ML Pipelines                     | Building preprocessing + model pipelines using sklearn          | [29-ml-pipelines](https://github.com/AqibNiazi/applied-machine-learning/tree/main/29-ml-pipelines)                                                   |
+| 30  | Function Transformer                     | Exploring Function Transformer in scikit-learn, different transformer types, and analyzing results on Titanic data
+       | [30-function-transformer](https://github.com/AqibNiazi/applied-machine-learning/tree/main/30-function-transformer)                                                   |
 | ... | ...                              | Ongoing daily learning                                          | ...                                                                                                                                                  |
 
 ## 🛠 Tools & Technologies
