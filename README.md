@@ -4,7 +4,6 @@ This repository documents my structured journey of learning **Applied Machine Le
 
 The goal is to build strong ML foundations and apply them to real datasets using industry-standard tools and workflows.
 
----
 
 ## 📌 What This Repository Contains
 
@@ -15,7 +14,6 @@ The goal is to build strong ML foundations and apply them to real datasets using
 * 🔄 ML pipelines and preprocessing workflows
 * 📈 End-to-end mini projects
 
----
 
 ## 🗂 Progress Table
 
@@ -47,8 +45,6 @@ The goal is to build strong ML foundations and apply them to real datasets using
 | 29  | ML Pipelines                     | Building preprocessing + model pipelines using sklearn          | [29-ml-pipelines](https://github.com/AqibNiazi/applied-machine-learning/tree/main/29-ml-pipelines)                                                   |
 | ... | ...                              | Ongoing daily learning                                          | ...                                                                                                                                                  |
 
----
-
 ## 🛠 Tools & Technologies
 
 * Python
@@ -58,7 +54,6 @@ The goal is to build strong ML foundations and apply them to real datasets using
 * Scikit-learn
 * Jupyter Notebook
 
----
 
 ## ▶ How to Use
 
@@ -67,8 +62,6 @@ The goal is to build strong ML foundations and apply them to real datasets using
 3. Read the `README.md` for theory
 4. Open the notebook to see practical implementation
 
----
-
 ## 🎯 Objectives
 
 * Strengthen machine learning foundations
@@ -76,8 +69,6 @@ The goal is to build strong ML foundations and apply them to real datasets using
 * Practice feature engineering & preprocessing
 * Build complete ML pipelines
 * Document consistent daily progress
-
----
 
 ## 📜 License
 
