@@ -1,4 +1,4 @@
-# Day 1: What is Machine Learning?
+# Lecture 1: What is Machine Learning?
 
 Machine Learning (ML) is a field of computer science that enables computers to learn from data and make predictions or decisions without being explicitly programmed for every task.
 

@@ -6,6 +6,16 @@ Each day covers a specific topic, with notes, code, and resources.
 ---
 
 ## Progress Table
+| # | Topic | Description | Link |
+|---|-------|-------------|------|
+| 01 | Introduction to ML | Overview of ML, history, definitions | [01-introduction-to-ml](link) |
+| 02 | AI vs ML vs DL | Differences with examples | [02-ai-vs-ml-vs-dl](link) |
+| 03 | Types of ML | Supervised, Unsupervised, Reinforcement Learning | [03-types-of-ml](link) |
+| 04 | Batch Learning | Concept, pros, cons, examples | [04-batch-learning](link) |
+| 05 | Online Learning | Concept, pros, cons, examples | [05-online-learning](link) |
+| 06 | Instance vs Model Based Learning | Comparison with examples | [06-instance-vs-model-based](link) |
+| 07 | Challenges in ML | Common challenges and solutions | [07-challenges-in-ml](link) |
+| 08 | ML Applications | Real-world applications | [08-ml-applications](link) |
 
 | Day | Topic | Link |
 |-----|-------|------|
