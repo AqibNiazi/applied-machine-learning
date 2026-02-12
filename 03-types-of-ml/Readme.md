@@ -1,4 +1,4 @@
-# Day 3: Types of Machine Learning
+# Lecture 3: Types of Machine Learning
 
 This lecture explores the different types of Machine Learning (ML), both in short notes and detailed explanations.
 
