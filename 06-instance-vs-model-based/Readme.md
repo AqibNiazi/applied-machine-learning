@@ -1,4 +1,4 @@
-# 🧠 Instance-Based vs Model-Based Learning
+# Lecture 6: Instance-Based vs Model-Based Learning
 
 This repository provides clear and concise notes on **Instance-Based Learning** and **Model-Based Learning**, two fundamental learning paradigms in Machine Learning. The content is adapted from structured Notion notes and is suitable for **students, interviews, and quick revision**.
 
