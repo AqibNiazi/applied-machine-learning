@@ -1,4 +1,4 @@
-# Day 2: AI vs Machine Learning vs Deep Learning
+# Lecture 2: AI vs Machine Learning vs Deep Learning
 
 ## Definitions and Differences
 

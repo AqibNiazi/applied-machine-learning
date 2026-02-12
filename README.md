@@ -1,4 +1,4 @@
-# 100 Days of Machine Learning 🚀
+# Applied Machine Learning 🚀
 
 This repository documents my journey of learning Machine Learning in 100 days.  
 Each day covers a specific topic, with notes, code, and resources.  
@@ -8,8 +8,8 @@ Each day covers a specific topic, with notes, code, and resources.
 ## Progress Table
 | # | Topic | Description | Link |
 |---|-------|-------------|------|
-| 01 | Introduction to ML | Overview of ML, history, definitions | [01-introduction-to-ml](link) |
-| 02 | AI vs ML vs DL | Differences with examples | [02-ai-vs-ml-vs-dl](link) |
+| 01 | Introduction to ML | Overview of ML, history, definitions | [01-introduction-to-ml](https://github.com/AqibNiazi/applied-machine-learning/tree/main/01-introduction-to-ml) |
+| 02 | AI vs ML vs DL | Differences with examples | [02-ai-vs-ml-vs-dl](https://github.com/AqibNiazi/applied-machine-learning/tree/main/02-ai-vs-ml-vs-dl) |
 | 03 | Types of ML | Supervised, Unsupervised, Reinforcement Learning | [03-types-of-ml](link) |
 | 04 | Batch Learning | Concept, pros, cons, examples | [04-batch-learning](link) |
 | 05 | Online Learning | Concept, pros, cons, examples | [05-online-learning](link) |
