@@ -1,4 +1,4 @@
-# 🤖 Machine Learning Applications in B2B
+# Lecture 8: Machine Learning Applications in B2B
 
 This repository provides **structured notes on real-world Machine Learning (ML) applications in B2B domains**. The content is ideal for **students, interviews, ML fundamentals revision, and academic preparation**.
 
