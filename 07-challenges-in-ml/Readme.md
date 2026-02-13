@@ -1,4 +1,4 @@
-# ⚠️ Challenges in Machine Learning
+# Lecture 7: Challenges in Machine Learning
 
 This repository documents the **key challenges faced in Machine Learning systems**, covering issues from **data collection to deployment and cost considerations**. The content is adapted from structured Notion notes and is suitable for **students, interviews, and quick revision**.
 
